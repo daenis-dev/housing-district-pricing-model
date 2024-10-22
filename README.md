@@ -18,8 +18,6 @@
   >> py -m pip install -u jupyter matplotlib numpy pandas scipy scikit-learn
   ```
 
-  - This will need to be done along the way with additional libraries
-
 - Open a Jupyter notebook and run the commands in the file *analyze_and_train.ipynb*
 
   ```
